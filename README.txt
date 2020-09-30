@@ -1,28 +1,28 @@
-Prologue by HTML5 UP
+Prologue By HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free For Personal & Commercial Use Under The CCA 3.0 License (html5up.net/license)
 
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+This Is A Prologue, The Simple, Single Page Responsive Site Template. It's Features To
+Clean, Minimalistic Design And A Sticky Sidebar With Navigation-Linked Scrolling.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+Demo Content Images* Are Courtesy Of The Ridiculously Talented Felicia Simion. Check Out 
+For The More Of Her Amazing Work Over At DeviantART:
 
 http://ineedchemicalx.deviantart.com/
 
 (* = Not included! Only meant for use with my own on-site demo, so please do NOT download
 and/or use any of Felicia's work without her explicit permission!)
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+Demo Banner Images* Courtesy Of Unsplash, A Radtastic Collection Of CC0 (public domain)
+Images You Can Use For Pretty Much Whatever.
 
 (* = Not included)
 
 AJ
-aj@lkn.io | @ajlkn
+aj@lkn.io || @ajlkn
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+PS: Not Sure How To Get That Contact Form Working? Give Formspree.io a try (it's awesome).
 
 
 Credits:
